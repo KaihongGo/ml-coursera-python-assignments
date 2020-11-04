@@ -109,3 +109,4 @@ venv.bak/
 *-solved.ipynb
 
 .idea/
+.vscode/
